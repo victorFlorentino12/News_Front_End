@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:yellow;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 20px;
+}
+.menu_lateral{
+    background-color: yellow;
+    height: 100vh;
+    width: 150px;
+    position: absolute;
+    top: 0;
+    padding: 20px;
+}
